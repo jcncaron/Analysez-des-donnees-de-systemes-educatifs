@@ -7,7 +7,7 @@
   2)	EdStatsCountry: Secondary dataset containing information about countries (Country Name, Country Code, Short Name, …) and their region of belonging
   3)	EdStatsSeries: Secondary dataset containing information on education indicators (Indicator Name, Series Code, ...)
 
--	Answer the following questions:
+### Answer the following questions:
   1) Identify countries with high potential customers to offer online training content for high school and university level audiences
   2) For each of these countries, what will be the evolution of this potential customer?
   3) In which countries should the company operate in priority?
