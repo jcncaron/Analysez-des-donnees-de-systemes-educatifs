@@ -1,22 +1,20 @@
 # Analysez-des-donnees-de-systemes-educatifs
-Projet 2 OpenClassrooms
 
-Vous êtes Data Scientist dans une start-up de la EdTech, nommée academy, qui propose des contenus de formation en ligne pour un public de niveau lycée et université.
+Purposes of the project:
+-	Conduct exploratory data analysis of educational data. 5 datasets are available on https://datacatalog.worldbank.org/dataset/education-statistics. Useful datasets are:
+1)	EdStatsData: Main dataset containing information on countries according to the different education indicators from 1970 to 2100
+2)	EdStatsCountry: Secondary dataset containing information about countries (Country Name, Country Code, Short Name, …) and their region of belonging
+3)	EdStatsSeries: Secondary dataset containing information on education indicators (Indicator Name, Series Code, ...)
+-	Answer the following questions:
+1)	Identify countries with high potential customers to offer online training content for high school and university level audiences
+2)	For each of these countries, what will be the evolution of this potential customer?
+3)	In which countries should the company operate in priority?
 
-Mark, votre manager, vous a convié à une réunion pour vous présenter le projet d’expansion à l’international de l’entreprise. Il vous confie une première mission d’analyse exploratoire, pour déterminer si les données sur l’éducation de la banque mondiale permettent d’informer le projet d’expansion.
-
-Voici les différentes questions que Mark aimerait explorer, que vous avez notées durant la réunion :
-- Quels sont les pays avec un fort potentiel de clients pour nos services ?
-- Pour chacun de ces pays, quelle sera l’évolution de ce potentiel de clients ?
-- Dans quels pays l'entreprise doit-elle opérer en priorité ?
-
-Votre mission :
-
-Mark vous a donc demandé de réaliser une analyse pré-exploratoire de ce jeu de données. Il vous a transmis cet email à la suite de la réunion :
-
-Hello,
-Les données de la Banque mondiale sont disponibles à l’adresse suivante :
-https://datacatalog.worldbank.org/dataset/education-statistics
-
-Je te laisse regarder la page d'accueil qui décrit le jeu de données. En résumé, l’organisme “EdStats All Indicator Query” de la Banque mondiale répertorie 4000 indicateurs internationaux décrivant l’accès à l’éducation, l’obtention de diplômes et des informations relatives aux professeurs, aux dépenses liées à l’éducation... Tu trouveras plus d'info sur ce site :
-http://datatopics.worldbank.org/education/
+Content of the repository : 
+-	Jupyter Notebook : Project_Educational_Scoring_CaronJoachim.ipynb
+1)	Analysing datasets quality and observe informations in each dataset
+2)	Scoring using the main dataset “data”
+a)	For the World areas
+b)	For the countries
+3)	Evolution of customer potential
+-	Slides of the presentation
