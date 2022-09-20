@@ -14,8 +14,8 @@
 ## Content of the repository : 
 -	Jupyter Notebook : Project_Educational_Scoring_CaronJoachim.ipynb
 1)	Analysing datasets quality and observe informations in each dataset
-2)	Scoring using the main dataset “data”
-  a)	For the World areas
+2)	Scoring using the main dataset “data”\
+  a)	For the World areas\
   b)	For the countries
 3)	Evolution of customer potential
 
